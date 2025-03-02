@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Función para imprimir un triángulo
+//Función para imprimir un triángul
 string imprimirTriangulo(int n) {
     string triangulo;
     for (int i = 1; i <= n; i++) {
